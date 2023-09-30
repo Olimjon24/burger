@@ -45,7 +45,7 @@
 
 .burger {
     height: 30px;
-    background: url(/img/menu.png);
+    background: url(img/menu.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 30px;
@@ -55,9 +55,10 @@
 
 .burger__active {
     height: 30px;
-    background: url(/img/close.png);
+    background: url(img/close.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 30px;
 }
+
 

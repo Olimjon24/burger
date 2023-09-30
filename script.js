@@ -10,3 +10,4 @@ function btn() {
         navList.classList.remove('active')
     }
 }
+
